@@ -2,6 +2,6 @@
 #EXT-X-VERSION:5
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5242880
-https://a3569456584-rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/playlist.m3u8?utcstart=1750096800
+https://raw.githubusercontent.com/ipchost/tess/refs/heads/main/Archy-IPTV-DONAT-1.m3u8
 
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=5242880,URI="https://a3569456584-rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/iframes.m3u8?utcstart=1750096800"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=5242880,URI="https://raw.githubusercontent.com/ipchost/tess/refs/heads/main/Archy-IPTV-DONAT-1.m3u8"
